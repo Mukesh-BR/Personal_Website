@@ -2617,7 +2617,7 @@ html.no-csstransitions .home-content__main {
  *
  * ------------------------------------------------------------------- */
 
-.s-testimonials {
+/* .s-testimonials {
     background-color: #0D0A0B;
     background-image: url("../images/testimonial-bg.jpg");
     background-repeat: no-repeat;
@@ -2792,7 +2792,7 @@ html.no-csstransitions .home-content__main {
     color: rgba(95, 95, 95, 0.7);
     text-transform: none;
     letter-spacing: 0;
-}
+} */
 
 
 /* ------------------------------------------------------------------- 
