@@ -234,6 +234,9 @@ blockquote {
     padding-left: 4.5rem;
     position: relative;
 }
+.Bold{
+    font-weight: 600;
+}
 
 blockquote:before {
     content: "\201C";
