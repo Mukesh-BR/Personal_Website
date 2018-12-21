@@ -104,7 +104,9 @@ a:focus {
     outline: none;
 }
 
-
+.Skills{
+    bottom: 10px;
+}
 
 /* ===================================================================
  * # typography & general theme styles - (_document-setup.scss) 
@@ -1101,7 +1103,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 .skill-bars {
     list-style: none;
-    margin: 6rem 0 3rem;
+    margin: 8rem 0 4rem;
 }
 
 .skill-bars li {
@@ -1115,8 +1117,9 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 .skill-bars li strong {
     position: absolute;
-    left: 0;
+    left: 10;
     top: -3rem;
+    box-sizing: border-box; 
     font-family: "montserrat-extrabold", sans-serif;
     color: #0D0A0B;
     text-transform: uppercase;
