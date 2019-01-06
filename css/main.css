@@ -75,6 +75,10 @@ html, body {
     height: 100%;
 }
 
+#academics
+{
+    color:#485E91;
+}
 body {
     background: #0a0809;
     font-family: "librebaskerville-regular", serif;
@@ -2210,6 +2214,7 @@ html.no-csstransitions .home-content__main {
     background-color: #FFFFFF;
     position: relative;
 }
+
 
 .about-content {
     margin-bottom: 3rem;
